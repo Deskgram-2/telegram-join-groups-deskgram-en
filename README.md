@@ -39,6 +39,12 @@ Join Groups is a Deskgram 2 module for distributing Telegram accounts across cha
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) if joining is only the preparation step before outreach.
 - [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) if the broader growth scenario continues after the infrastructure layer is ready.
 
+## What this infrastructure path often feeds into
+
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) if you want joining and next-step execution inside one control layer.
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) if the prepared environment should stay aligned with shared system parameters.
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) if community entry is only the first step before engagement activity.
+
 ## Interface highlights
 
 ### Statistics
@@ -91,6 +97,9 @@ Delays, limits, and visible task statistics help reduce overload and keep the jo
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
 - [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
 - [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 
 ## FAQ
 
