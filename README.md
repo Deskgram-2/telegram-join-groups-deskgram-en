@@ -31,6 +31,14 @@ Join Groups is a Deskgram 2 module for distributing Telegram accounts across cha
 4. Start the task and monitor statistics.
 5. Use the prepared accounts in the next modules.
 
+## What to combine it with
+
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) if the account grid is not ready yet.
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) if joining depends on a working proxy pool.
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) if the next step is collecting users from the joined communities.
+- [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) if joining is only the preparation step before outreach.
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) if the broader growth scenario continues after the infrastructure layer is ready.
+
 ## Interface highlights
 
 ### Statistics
@@ -80,6 +88,9 @@ Delays, limits, and visible task statistics help reduce overload and keep the jo
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
 
 ## FAQ
 
