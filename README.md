@@ -89,6 +89,29 @@ Delays, limits, and visible task statistics help reduce overload and keep the jo
 | Source lists become chaotic fast | Link processing is centralized |
 | Harder to prepare accounts for the next modules | It becomes an infrastructure layer for future workflows |
 
+## What to choose: Join Groups or Audience Parser
+
+| If your goal is | Better fit |
+|---|---|
+| Put your own accounts into selected communities first | [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) |
+| Extract users from groups and chats | [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) |
+| Build a route like `environment -> base -> outreach` | Join Groups -> Audience Parser -> Direct Messaging |
+| Prepare infrastructure without parsing yet | Join Groups |
+
+## Scenario FAQ
+
+### When is this module best used as a standalone step?
+
+When the goal is specifically to connect your account grid to the target environment and stop there for now. Still, the module usually creates the most value when it feeds the next workflow.
+
+### When should I go from Join Groups into Audience Parser instead of Invite Tool?
+
+When the next objective is to collect and segment users from the newly entered communities before you start communication or growth actions. In that route [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) is a stronger next step than Invite Tool.
+
+### When does Join Groups work best together with warmup?
+
+When accounts are still fresh, the environment is unstable, or you want a softer path into more active workflows. Then warmup and joining complement each other well, even if the warmup layer is outside the current EN wave.
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
