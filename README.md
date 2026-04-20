@@ -1,15 +1,15 @@
-# Mass Joining in Telegram with Deskgram 2
+﻿# Mass Joining in Telegram with Deskgram 2
 
 ![Join Groups Main](assets/screenshots/join-groups__main__en.png)
 
 Join Groups is a Deskgram 2 module for distributing Telegram accounts across channels, chats, and folders. It is useful when you need to prepare accounts for the next workflows, expand presence in selected communities, and build the infrastructure layer for a larger Telegram operation.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups&lang=en)
 
 If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
 
@@ -147,3 +147,4 @@ No. The module also works with invite links and Telegram folder links.
 ### Can I use it as a preparation step?
 
 Yes. It is one of the most practical infrastructure modules before invite, warmup, and other next-step workflows.
+
